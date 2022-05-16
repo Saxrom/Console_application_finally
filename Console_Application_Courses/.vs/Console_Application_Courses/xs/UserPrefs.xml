@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{66B40A0E-B6FD-4EC8-9F76-576514FD3F4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console_Application_Courses/Managment/MenuManagment.cs">
+    <Files>
+      <File FileName="Console_Application_Courses/Managment/CourseManagment.cs" Line="16" Column="13" />
+      <File FileName="Console_Application_Courses/Managment/MenuManagment.cs" Line="101" Column="57" />
+      <File FileName="Console_Application_Courses/Program.cs" Line="1" Column="1" />
+      <File FileName="Console_Application_Courses/Models/Student.cs" Line="1" Column="1" />
+      <File FileName="Console_Application_Courses/Models/Group.cs" />
+      <File FileName="Console_Application_Courses/Interfaces/ICoursesManagment.cs" />
+      <File FileName="Console_Application_Courses/EnumC/Enum.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Console_Application_Courses" expanded="True">
+            <Node name="Console_Application_Courses" expanded="True">
+              <Node name="EnumC" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Managment" expanded="True">
+                <Node name="MenuManagment.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Console__Application__Courses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
